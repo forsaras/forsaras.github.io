@@ -63,7 +63,7 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#fa6b10"
+              "color": "#ffffff"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#fa6b10"
